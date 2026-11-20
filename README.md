@@ -30,3 +30,4 @@
 | 1 | 1 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 1 | 1 | 1 | 0 |
 
+I chose Static CMOS over because it has high noise immunity, zero static power dissipation
