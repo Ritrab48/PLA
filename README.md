@@ -30,4 +30,17 @@
 | 1 | 1 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 1 | 1 | 1 | 0 |
 
-I chose Static CMOS over because it has high noise immunity, zero static power dissipation
+I chose Static CMOS over pseudo NMOS/dynamic logic, because it has high noise immunity, zero static power dissipation
+
+### PLA Schematic
+
+<img width="1636" height="577" alt="image" src="https://github.com/user-attachments/assets/0fa15edf-e7dc-4ba2-a4c8-088f7cee31f2" />
+
+### Layout
+
+<img width="864" height="778" alt="image" src="https://github.com/user-attachments/assets/eb54e616-5138-4ed2-994e-8a5d68f6334e" />
+
+### LVS
+<img width="1348" height="677" alt="image" src="https://github.com/user-attachments/assets/99ac7b52-9096-450d-bdae-f98eab81e9a2" />
+
+
