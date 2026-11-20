@@ -43,4 +43,7 @@ I chose Static CMOS over pseudo NMOS/dynamic logic, because it has high noise im
 ### LVS
 <img width="1348" height="677" alt="image" src="https://github.com/user-attachments/assets/99ac7b52-9096-450d-bdae-f98eab81e9a2" />
 
+### DRC 
+<img width="1335" height="758" alt="image" src="https://github.com/user-attachments/assets/c4c867e1-12dd-4c1f-8800-d1d949e88280" />
+
 
